@@ -14,7 +14,7 @@ let formSubmitHandler = (e) => {
 
     });
 };
-let currentScroll = 0;
+let currentScroll = 81;
 let navbar = document.querySelector('.header'),
 windowScrollHandler = (ev) => {
 if (window.pageYOffset > currentScroll) {

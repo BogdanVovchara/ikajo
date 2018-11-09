@@ -312,7 +312,10 @@ border: 1px solid red;
   .contact-form {
     margin-bottom: 6rem; }
   .inner-wrapper {
-    padding: 0 5px; } }
+    padding: 0 5px; }
+  .home__text-block h1 {
+    line-height: 120%;
+    padding-top: 85px; } }
 
 @media (max-width: 850px) {
   .services__feature-block {
@@ -323,6 +326,4 @@ border: 1px solid red;
         -ms-flex-pack: distribute;
             justify-content: space-around; }
   .services__feature-item {
-    margin-bottom: 15px; }
-  .home__text-block h1 {
-    line-height: 120%; } }
+    margin-bottom: 15px; } }
